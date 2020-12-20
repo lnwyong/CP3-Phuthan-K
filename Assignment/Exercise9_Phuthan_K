@@ -1,0 +1,15 @@
+def calculator1 (x,y):
+    print(x+y)
+calculator1(100,20)
+
+def calculator2 (x,y):
+    print(x-y)
+calculator2(100,20)
+
+def calculator3 (x,y):
+    print(x*y)
+calculator3(100,20)
+
+def calculator4 (x,y):
+    print(x/y)
+calculator4(100,20)
